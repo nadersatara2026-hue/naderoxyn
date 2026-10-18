@@ -1,7 +1,7 @@
 {
   // اسم Worker: باید دقیقاً همان اسمی باشد که در داشبورد کلودفلر داری
   // (Workers & Pages -> اسم Worker). اگر فرق کند، کلودفلر یک Worker جدید می‌سازد.
-  "name": "naderoxynh",
+  "name": "royal-morning-0304",
 
   // فایل اصلی کد در همین ریپازیتوری
   "main": "worker.js",
@@ -13,7 +13,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "bef8c872b651470b9080fb5f176bc30f"
+      "id": "a72f729c54224b75a41ea3355b1e5aaf"
     }
   ],
 
@@ -22,8 +22,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "bpbbi",
-      "database_id": "010a4f0f-7246-4ba9-a22b-b64e265cbd39"
+      "database_name": "basder",
+      "database_id": "752d1870-e1b0-4e1d-9854-2bb94b35e72a"
     }
   ],
 
